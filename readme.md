@@ -10,6 +10,6 @@ TO run first create and activate the venv by going to the Flask folder in your C
 "venv\Scripts\activate"
 
 install packages:
-"pip install -r packages"
+"pip install -r packages.txt"
 
 Then run the script by: "python run.py" 
